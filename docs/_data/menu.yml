@@ -1,0 +1,22 @@
+options:
+
+  - title: Installation
+    url: docs/installation.html
+
+  - title: Quick start 
+    url: docs/publish/Example.html
+
+  - title: Semidefinite programming
+    url: docs/publish/SDP.html
+
+  - title: Code organization 
+    url: docs/organization.html
+
+  - title: Law checks 
+    url: docs/publish/LawChecks.html
+
+  - title: Pretty printing 
+    url: docs/publish/PrettyPrinting.html
+
+  - title: CHSH example 
+    url: docs/publish/CHSHScenario.html

@@ -1,0 +1,7 @@
+name: RepLAB
+baseurl: /replab
+description: RepLAB - a MATLAB/Octave toolbox for representation theory
+highlighter: rouge
+docs: true
+markdown: kramdown
+replabVersion: 0.4.2-SNAPSHOT
